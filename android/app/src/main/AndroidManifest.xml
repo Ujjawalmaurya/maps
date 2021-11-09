@@ -1,8 +1,9 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.maps">
+    package="com.ujjawal.maps.maps">
    <application
         android:label="maps"
         android:icon="@mipmap/ic_launcher">
+          <meta-data android:name="com.google.android.geo.API_KEY" android:value="AIzaSyBUILBxCa5yyQZawAA0pD6HII48R3haimM"/>
         <activity
             android:name=".MainActivity"
             android:launchMode="singleTop"
