@@ -1,3 +1,3 @@
-#Maps - Search and find Map of Locaations
+# Maps - Search and find Map of Locaations
 
-###Google Maps API used
+### Google Maps API used
